@@ -46,9 +46,6 @@ class Deck
 
 end
 
-deck = Deck.new
-deck.create_deck
-deck.assign_values
 
-p deck.values
+
 
